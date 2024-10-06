@@ -1,6 +1,6 @@
-# Project Title
+# Geo-Insights Mapper
 
-A brief description of what this project does and who it's for.
+Geo-Insights Mapper is a Python-based project that visualizes geographical data to provide insights into various aspects of a community, such as heat vulnerability and land surface temperature. Using powerful mapping technologies like Streamlit and geospatial datasets, this project tells a unique story about the physical geography of a location and its impact on the community.
 
 ## Installation
 
@@ -13,10 +13,10 @@ A brief description of what this project does and who it's for.
 2. Navigate into the project directory:
 
     ```bash
-    cd <your_project_directory>
+    cd geo-insights-mapper
     ```
 
-3. Install the required dependencies (if any):
+3. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
@@ -30,7 +30,9 @@ A brief description of what this project does and who it's for.
     python app.py
     ```
 
-2. Follow any specific instructions within the app.
+2. Open your browser and navigate to the displayed URL (typically `http://localhost:8501/`).
+
+3. Explore the map visualizations and interact with the data.
 
 ## Contribution
 
